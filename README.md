@@ -1,3 +1,7 @@
+
+Moved to https://gitlab.com/inorton/junit2html
+==============================================
+
 junit2html by Ian Norton <inorton@gmail.com>
 -------------------------------------------------------------
 
